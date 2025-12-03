@@ -1,3 +1,4 @@
 .env
 certificados/
+secrets.h
 __pycache__/
