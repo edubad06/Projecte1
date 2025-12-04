@@ -2,3 +2,4 @@
 certificados/
 secrets.h
 __pycache__/
+controlcat.service
